@@ -94,4 +94,4 @@ Counter = {
         }
     },
 }
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ErutTheTeru/ruahub/refs/heads/main/bounty-hunter.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/nakajssiz2672/bloxs/refs/heads/main/B_H.lua'))()
